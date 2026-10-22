@@ -2,24 +2,14 @@
 
 An interactive, self-contained revision flashcard website designed for **OCR Gateway Combined Science Physics: Topic P3 (Electricity & Magnetism)**.
 
-## 🚀 Quick Start
+## 🌐 Live Website (Hosted on GitHub Pages)
+- **Live Revision Website:** [https://taggatron.github.io/p3-revision-grid/](https://taggatron.github.io/p3-revision-grid/)
+- **GitHub Repository:** [https://github.com/taggatron/p3-revision-grid](https://github.com/taggatron/p3-revision-grid)
+
+## 🚀 Quick Start (Local)
 - Simply double-click **`index.html`** in any web browser (Chrome, Safari, Firefox, Edge).
 - Completely self-contained: all code, styles, and high-resolution diagrams are embedded directly within `index.html` (no build step or server required).
-
-## 🌐 Deploy to GitHub Pages (Free & Instant)
-1. Initialize a git repository and push this folder to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit of P3 Revision Grid"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git push -u origin main
-   ```
-2. In your GitHub repository:
-   - Go to **Settings** > **Pages**.
-   - Under **Source**, select **Deploy from a branch** -> branch: **`main`**, folder: **`/ (root)`**.
-   - Click **Save**. Your revision app will be live at `https://<your-username>.github.io/<your-repo-name>/`!
+- Defaults to a clean, high-contrast **Light Theme** with a 1-click Dark Mode toggle.
 
 ## ⚡ Features
 - **4×4 Revision Grid**: Complete interactive grid matching the 4 topics and 16 end-of-topic test questions:
